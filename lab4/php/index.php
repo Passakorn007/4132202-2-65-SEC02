@@ -1,6 +1,6 @@
 <?php
 echo "Hello PHP !!";
-//phpinfo();
+// phpinfo();
 
 $num = 10;
 $name = "Petch";

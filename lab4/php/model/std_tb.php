@@ -1,8 +1,6 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <?php
 include "condb.php";
 ?>
-<div id = "div_res"></div> 
 
 <table>
     <thead>
@@ -33,7 +31,6 @@ include "condb.php";
         ?>
     </tbody>
 </table>
-
 <script>
     $(".btn_del").click(function(){
        // alert($(this).attr("data"))
